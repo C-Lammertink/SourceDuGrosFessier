@@ -1,5 +1,5 @@
 html {
-  background-color: #fefffd;
+  background-color: #f0f1d7;
 }
 
 body {
@@ -19,13 +19,9 @@ body, pre, pre code {
   font-size: 18px;
 }
 
-a, a:visited {
-  color: #48820f;
-}
-
 h1, h2 {
   display: inline-block;
-  border-bottom-style: dotted;
+  border-bottom-style: double;
   border-bottom-color: #48820f;
 }
 
@@ -43,7 +39,7 @@ img, audio, iframe {
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /*16:9*/
+  padding-bottom: 56.25%; /16:9/
   padding-top: 30px;
   height: 0;
   overflow: hidden;
