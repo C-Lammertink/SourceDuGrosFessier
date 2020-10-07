@@ -25,16 +25,8 @@ body, pre, pre code {
 
 h1, h2 {
   display: inline-block;
-  border-bottom-style: double;
-  border-bottom-color: #6C9BD8;
-}
-
-h1 {
-  border-bottom-width: 10px;
-}
-
-h2 {
-  border-bottom-width: 5px;
+  border-left: 6px;
+  border-left-color: #6C9BD8;
 }
 
 img, audio, iframe {
