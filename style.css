@@ -2,6 +2,11 @@ html {
  
 }
 
+#wrap {
+ width: 750 px;
+ margin: 0 auto;
+}
+
 body {
   width: 750px;
   max-width: 100%;
