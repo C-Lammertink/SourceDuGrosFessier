@@ -80,14 +80,6 @@ div.gallery {
   height: 250px;
 }
 
-div.galleryspecial {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: right;
-  width: 180px;
-  height: 250px;
-}
-
 div.gallery:hover {
   border: 1px solid #777;
 }
@@ -102,3 +94,24 @@ div.desc {
   text-align: center;
 }
 
+div.galleryspecial {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: right;
+  width: 180px;
+  height: 250px;
+}
+
+div.galleryspecial:hover {
+  border: 1px solid #777;
+}
+
+div.galleryspecial img {
+  width: 100%;
+  height: 70%;
+}
+
+div.descspecial {
+  padding: 15px;
+  text-align: center;
+}
