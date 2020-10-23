@@ -24,6 +24,12 @@ body {
   font-style: normal;
 }
 
+@media (max-width: 480px) {
+    body {
+        background-color: #dfdfe5;
+    }
+}
+
 body, pre, pre code {
   font-size: 18px;
 }
