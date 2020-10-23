@@ -13,7 +13,6 @@ body {
   margin: 0 auto;
   padding: 1em;
   
-  background-image: url("https://i.ibb.co/WGN7n9n/Bruegel.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -27,6 +26,12 @@ body {
 @media (max-width: 480px) {
     body {
         background-color: #dfdfe5;
+    }
+}
+
+@media (min-width: 481px) {
+    body {
+        background-image: url("https://i.ibb.co/WGN7n9n/Bruegel.png");
     }
 }
 
