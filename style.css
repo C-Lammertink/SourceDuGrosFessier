@@ -80,6 +80,14 @@ div.gallery {
   height: 250px;
 }
 
+div.galleryspecial {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: right;
+  width: 180px;
+  height: 250px;
+}
+
 div.gallery:hover {
   border: 1px solid #777;
 }
